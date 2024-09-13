@@ -1,6 +1,6 @@
-import Image from "next/image";
+
 import InlineComponent from "./inlineWidget";
-import PopupComponent from "./popupWidget";
+
 import Link from "next/link";
 
 export default function Home() {
